@@ -67,12 +67,14 @@
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="left">⚡ 📊 GitHub Stats ⚡</h2>
+<div align="left">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayoza&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayoza&layout=compact&theme=radical" height="180" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayoza&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayoza&theme=chartreuse-dark&hide_border=false" />
+
+</div>
+
 
 ---
 
